@@ -98,3 +98,6 @@ Este repositório contém implementações práticas e didáticas de comunicaç�
 ## 🛠️ Tecnologias
 * **Linguagem:** Python 3
 * **Biblioteca Padrão:** `socket`, `_thread`
+
+## Repositorio:
+GitHub:https://github.com/Luizfmaia10-dev/REDES-SOCKETS
